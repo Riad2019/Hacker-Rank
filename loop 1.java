@@ -29,24 +29,3 @@ public class hackerrank1 {
     
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
