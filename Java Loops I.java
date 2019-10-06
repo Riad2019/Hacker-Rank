@@ -13,7 +13,7 @@ public class hackerrank1 {
            for( int i=1;i<=10;i++){
                 result=N*i;
                System.out.println(N+" x "+i+" = "+result);
-               //System.out.printf("%d * %d = %d%n",N,i,N*i);
+               //System.out.printf("%d x %d = %d%n",N,i,N*i);
           
             
             
