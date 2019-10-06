@@ -1,5 +1,4 @@
 
-package prec;
 
 import java.util.Scanner;
 
