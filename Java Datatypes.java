@@ -1,7 +1,4 @@
 
-package prec;
-
-
 import java.util.Scanner;
 import java.io.*;
 
@@ -34,16 +31,4 @@ public class DecimalFormatDemo {
     }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
