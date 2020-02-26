@@ -9,7 +9,14 @@ public class HCKR {
         Scanner scanner = new Scanner(System.in);
         double payment = scanner.nextDouble();
         scanner.close();
+        
+        
+          /* Create custom Locale for India. */
+        
+        
     Locale indiaLocale = new Locale("en","IN");
+        
+        
         NumberFormat us = NumberFormat.getCurrencyInstance(Locale.US);
         NumberFormat india = NumberFormat.getCurrencyInstance(indiaLocale);
         NumberFormat china = NumberFormat.getCurrencyInstance(Locale.CHINA);
